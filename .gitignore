@@ -1,0 +1,9 @@
+dataset.zip
+weights.zip
+data/
+dataset/
+models/
+weights/
+__pycache__/
+*.pyc
+
